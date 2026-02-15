@@ -17,6 +17,7 @@ Transform one piece of long-form content into platform-optimized posts for Twitt
   - Mock mode for testing
 
 - **Simple Interfaces**:
+  - **Live Demo**: [ezra-anchovy.github.io/content-repurposer](https://ezra-anchovy.github.io/content-repurposer/)
   - Web UI (Flask)
   - Python API
   - CLI
